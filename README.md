@@ -42,5 +42,5 @@ I'm a Lifescience Researcher and self-taught passionate FrontEnd developer from 
   <img align="right" alt="MD. Hasanur Rahman | Researchgate" width="20px" src="./assets/rg.svg" />
 </a>
 <a href="https://scholar.google.com/citations?user=l2q048wAAAAJ&hl=en&authuser=1">
-  <img align="right" alt="MD. Hasanur Rahman | Google Scholar" width="20px" src="./assets/.svg" />
+  <img align="right" alt="MD. Hasanur Rahman | Google Scholar" width="20px" src="./assets/gs.svg" />
 </a>
