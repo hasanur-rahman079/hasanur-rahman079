@@ -46,6 +46,8 @@ I'm a Lifescience Researcher and self-taught passionate software developer from 
 | <a href="https://github.com/hasanur-rahman079/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanur-rahman079&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Hasan's github stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide=rust,go,glsl,assembly&layout=compact&theme=buefy&hide_border=true) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hasanur-rahman079)](https://git.io/streak-stats)
+
 <!-- #### Top Repositories -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
