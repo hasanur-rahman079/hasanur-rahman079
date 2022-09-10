@@ -1,6 +1,9 @@
-<p align="center"><a href="https://hasanur.me"><img width="80%" src="./assets/gh-readme-header-01.png" /></a></p>
+<p align="center"><a href="https://hasanur.me"><img width="100%" src="./assets/gh-readme-header-01.png" /></a></p>
 
-<br />
+</br>
+
+![Profile views](https://gpvc.arturio.dev/hasanur-rahman079)
+
 
 I'm a Lifescience Researcher and self-taught passionate FrontEnd developer from Bangladesh
 
@@ -32,15 +35,17 @@ I'm a Lifescience Researcher and self-taught passionate FrontEnd developer from 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a> -->
 
-<br />
-<br />
+</br>
+</br>
 
 <a href="https://twitter.com/hasanur069">
   <img align="right" alt="Md. Hasanur Rahman | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+
 <a href="https://www.researchgate.net/profile/Md-Rahman-262">
   <img align="right" alt="MD. Hasanur Rahman | Researchgate" width="20px" src="./assets/rg.svg" />
 </a>
+
 <a href="https://scholar.google.com/citations?user=l2q048wAAAAJ&hl=en&authuser=1">
   <img align="right" alt="MD. Hasanur Rahman | Google Scholar" width="20px" src="./assets/gs.svg" />
 </a>
