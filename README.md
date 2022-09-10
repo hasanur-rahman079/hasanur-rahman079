@@ -4,7 +4,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/hasanur-rahman079)
 
-
 I'm a Lifescience Researcher and self-taught passionate FrontEnd developer from Bangladesh
 
 **About me**
@@ -35,7 +34,6 @@ I'm a Lifescience Researcher and self-taught passionate FrontEnd developer from 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a> -->
 
-</br>
 </br>
 
 <a href="https://twitter.com/hasanur069">
