@@ -1,21 +1,42 @@
 <p align="center"><a href="https://hasanur.me"><img width="100%" src="./assets/gh-readme-header-01.png" /></a></p>
 
+I'm a Lifescience Researcher and self-taught passionate software developer from Bangladesh
+
 </br>
 
 ![Profile views](https://gpvc.arturio.dev/hasanur-rahman079)
 
-I'm a Lifescience Researcher and self-taught passionate FrontEnd developer from Bangladesh
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasanur-rahman079)](https://github.com/ryo-ma/github-profile-trophy)
 
-**About me**
+**About Me**
 
-- 💼 Founder and CEO at [ExomeIT](http://exomeit.com/)
+- 💼 Currently working on [ExomeIT](http://exomeit.com/)
 
-- 📈 Built [COB](http://cobt.org/), [ABEx Bio](http://research.abexbio.com/) and more, Focusing career on building bioinformatics tools development.
+- 📈 Focusing career on building bioinformatics tools
 
-- ❤️ I love writing ReactJS, TypeScript, and writing manuscript on lifescience research
+- ❤️ love science and writing code in Javascript
 
-- 💬 Ask me about anything at hasan@exomeit.com
+- 💬 Reach me at hasan@exomeit.com
 
+**Follow at Social**
+
+<p align="left">
+  <a  href="https://twitter.com/hasanur069" >
+    <img align="center"  alt="Md. Hasanur Rahman | Twitter" width="30px" max-width="100%" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    </a>
+  <a  href="https://www.linkedin.com/in/hasanur069/" >
+    <img align="center"  alt="Md. Hasanur Rahman | linkedin" width="30px" max-width="100%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+    </a>
+  <a href="https://www.researchgate.net/profile/Md-Rahman-262">
+    <img align="center" alt="MD. Hasanur Rahman | Researchgate" width="30px" max-width="100%" src="./assets/rg.svg" />
+  </a>
+ </p>
+
+</br>
+
+**Languages and Stats**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -33,17 +54,3 @@ I'm a Lifescience Researcher and self-taught passionate FrontEnd developer from 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a> -->
-
-</br>
-
-<a href="https://twitter.com/hasanur069">
-  <img align="right" alt="Md. Hasanur Rahman | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.researchgate.net/profile/Md-Rahman-262">
-  <img align="right" alt="MD. Hasanur Rahman | Researchgate" width="20px" src="./assets/rg.svg" />
-</a>
-
-<a href="https://scholar.google.com/citations?user=l2q048wAAAAJ&hl=en&authuser=1">
-  <img align="right" alt="MD. Hasanur Rahman | Google Scholar" width="20px" src="./assets/gs.svg" />
-</a>
