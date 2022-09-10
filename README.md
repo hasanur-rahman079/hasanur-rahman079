@@ -10,7 +10,7 @@ I'm a Lifescience Researcher and self-taught passionate software developer from 
 
 **About Me**
 
-- 💼 Currently working on [ExomeIT](http://exomeit.com/)
+- 💼 Currently working at [ExomeIT](http://exomeit.com/)
 
 - 📈 Focusing career on building bioinformatics tools
 
