@@ -14,7 +14,7 @@ I'm a Lifescience Researcher and self-taught passionate software developer from 
 
 - 📈 Focusing career on building bioinformatics tools
 
-- ❤️ love science and writing code in Javascript
+- ❤️ love science and writing code in Javascript and python
 
 - 💬 Reach me at hasan@exomeit.com
 
