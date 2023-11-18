@@ -4,7 +4,7 @@ I'm a Lifescience Researcher and self-taught passionate software developer from 
 
 </br>
 
-![Profile views](https://gpvc.arturio.dev/hasanur-rahman079)
+![Profile Views](https://komarev.com/ghpvc/?username=hasanur-rahman079)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasanur-rahman079)](https://github.com/ryo-ma/github-profile-trophy)
 
