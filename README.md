@@ -1,58 +1,77 @@
-<p align="center"><a href="https://hasanur.me"><img width="100%" src="./assets/gh-readme-header-01.png" /></a></p>
+<p align="center">
+  <a href="https://www.hasanur.site/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+      <img alt="Hi, I'm Hasanur Rahman — I turn pipettes into pipelines." src="./assets/banner-light.svg" width="100%" />
+    </picture>
+  </a>
+</p>
 
-I'm a Lifescience Researcher and self-taught passionate software developer from Bangladesh
+<p align="center">
+  <a href="https://www.hasanur.site/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=EF6461&center=true&vCenter=true&width=600&lines=Self-taught+Software+Developer;Lifescience+Researcher;Computational+Biology+and+Genomics;Building+bioinformatics+tools" alt="Typing SVG" />
+  </a>
+</p>
 
-</br>
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hasanur-rahman079&color=ef6461&style=flat" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasanur-rahman079)
+## About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanur-rahman079)](https://github.com/ryo-ma/github-profile-trophy)
-
-**About Me**
-
-- 💼 Currently working at [ExomeIT](http://exomeit.com/)
-
-- 📈 Focusing career on building bioinformatics tools
-
-- ❤️ love science and writing code in Javascript and python
-
+- 🔬 Lifescience researcher working in computational biology & genomics — self-taught into software development
+- 💼 Building at [ExomeIT](http://exomeit.com/) — EMS & JMS, editorial/journal management systems for academic publishing
+- 🎓 BSc in Biotechnology and Genetic Engineering
+- 📈 Focused on building bioinformatics tools and pipelines
+- ❤️ Write most days in Python, TypeScript, and JavaScript
 - 💬 Reach me at hasan@exomeit.com
 
-**Follow at Social**
+## Connect
 
 <p align="left">
-  <a  href="https://twitter.com/hasanur069" >
-    <img align="center"  alt="Md. Hasanur Rahman | Twitter" width="30px" max-width="100%" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-    </a>
-  <a  href="https://www.linkedin.com/in/hasanur069/" >
-    <img align="center"  alt="Md. Hasanur Rahman | linkedin" width="30px" max-width="100%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-    </a>
-  <a href="https://www.researchgate.net/profile/Md-Rahman-262">
-    <img align="center" alt="MD. Hasanur Rahman | Researchgate" width="30px" max-width="100%" src="./assets/rg.svg" />
+  <a href="https://twitter.com/hasanur069">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
- </p>
+  <a href="https://www.linkedin.com/in/hasanur069/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Md-Rahman-262">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=l2q048wAAAAJ&view_op=list_works">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="mailto:hasan@exomeit.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-</br>
+## Tech Stack
 
-**Languages and Stats**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,tailwind,postgres,prisma,docker,r,git,github,linux,bash&perline=8" alt="Tech stack icons" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+## GitHub Stats
 
-| <a href="https://github.com/hasanur-rahman079/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanur-rahman079&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Hasan's github stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide=rust,go,glsl,assembly&layout=compact&theme=buefy&hide_border=true) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<p align="left">
+  <a href="https://github.com/hasanur-rahman079/">
+    <img align="center" src="https://gh-readme-stats.vercel.app/api?username=hasanur-rahman079&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Hasan's GitHub stats" height="165" />
+  </a>
+  <img align="center" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=hasanur-rahman079&langs_count=8&hide=rust,go,glsl,assembly&layout=compact&theme=buefy&hide_border=true" alt="Top languages" height="165" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hasanur-rahman079)](https://git.io/streak-stats)
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=hasanur-rahman079&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
 
-<!-- #### Top Repositories -->
+## Contribution Snake
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a> -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanur-rahman079/hasanur-rahman079/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanur-rahman079/hasanur-rahman079/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/hasanur-rahman079/hasanur-rahman079/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>

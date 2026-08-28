@@ -1,0 +1,28 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" fill="#ffffff"/>
+
+  <g stroke-linecap="round">
+    <path d="M100,0 C100,18 138,14.5 138,32.5 C138,50.5 100,47 100,65 C100,83 62,79.5 62,97.5 C62,115.5 100,112 100,130 C100,148 138,144.5 138,162.5 C138,180.5 100,177 100,195 C100,213 62,209.5 62,220"
+          stroke="#ef6461" stroke-width="4" fill="none"/>
+    <path d="M100,0 C100,18 62,14.5 62,32.5 C62,50.5 100,47 100,65 C100,83 138,79.5 138,97.5 C138,115.5 100,112 100,130 C100,148 62,144.5 62,162.5 C62,180.5 100,177 100,195 C100,213 138,209.5 138,220"
+          stroke="#2b6cb0" stroke-width="4" fill="none"/>
+
+    <line x1="126.9" y1="16.25" x2="73.1" y2="16.25" stroke="#cbd5e0" stroke-width="3"/>
+    <line x1="126.9" y1="48.75" x2="73.1" y2="48.75" stroke="#cbd5e0" stroke-width="3"/>
+    <line x1="73.1" y1="81.25" x2="126.9" y2="81.25" stroke="#cbd5e0" stroke-width="3"/>
+    <line x1="73.1" y1="113.75" x2="126.9" y2="113.75" stroke="#cbd5e0" stroke-width="3"/>
+    <line x1="126.9" y1="146.25" x2="73.1" y2="146.25" stroke="#cbd5e0" stroke-width="3"/>
+    <line x1="126.9" y1="178.75" x2="73.1" y2="178.75" stroke="#cbd5e0" stroke-width="3"/>
+    <line x1="73.1" y1="211.25" x2="126.9" y2="211.25" stroke="#cbd5e0" stroke-width="3"/>
+
+    <circle cx="138" cy="32.5" r="5" fill="#ef6461"/>
+    <circle cx="62" cy="97.5" r="5" fill="#ef6461"/>
+    <circle cx="138" cy="162.5" r="5" fill="#ef6461"/>
+    <circle cx="62" cy="32.5" r="5" fill="#2b6cb0"/>
+    <circle cx="138" cy="97.5" r="5" fill="#2b6cb0"/>
+    <circle cx="62" cy="162.5" r="5" fill="#2b6cb0"/>
+  </g>
+
+  <text x="230" y="102" font-family="Consolas, 'Courier New', monospace" font-size="46" font-weight="700" fill="#1f2328">Hi, I&#8217;m Hasanur Rahman</text>
+  <text x="230" y="140" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#57606a">I turn pipettes into pipelines.</text>
+</svg>
