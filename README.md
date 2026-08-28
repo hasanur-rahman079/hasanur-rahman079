@@ -62,10 +62,6 @@
   <img align="center" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=hasanur-rahman079&langs_count=8&hide=rust,go,glsl,assembly&layout=compact&theme=buefy&hide_border=true" alt="Top languages" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=hasanur-rahman079&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
 ## Contribution Snake
 
 <p align="center">
