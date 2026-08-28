@@ -57,9 +57,9 @@
 
 <p align="left">
   <a href="https://github.com/hasanur-rahman079/">
-    <img align="center" src="https://github-stats-extended.vercel.app/api?username=hasanur-rahman079&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Hasan's GitHub stats" height="165" />
+    <img align="center" src="https://github-stats-extended-frontend-ten-snowy.vercel.app/api?username=hasanur-rahman079&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Hasan's GitHub stats" height="165" />
   </a>
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hasanur-rahman079&langs_count=8&hide=rust,go,glsl,assembly&layout=compact&theme=buefy&hide_border=true" alt="Top languages" height="165" />
+  <img align="center" src="https://github-stats-extended-frontend-ten-snowy.vercel.app/api/top-langs/?username=hasanur-rahman079&langs_count=8&hide=rust,go,glsl,assembly&layout=compact&theme=buefy&hide_border=true&count_private=true" alt="Top languages" height="165" />
 </p>
 
 ## Contribution Snake
