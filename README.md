@@ -42,6 +42,9 @@
   <a href="https://scholar.google.com/citations?hl=en&user=l2q048wAAAAJ&view_op=list_works">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
+  <a href="https://orcid.org/0000-0001-9238-3149">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
   <a href="mailto:hasan@exomeit.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
