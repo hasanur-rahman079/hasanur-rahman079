@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.hasanur.site/">
+  <a href="https://www.hasanur.me/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hasanur.site/">
+  <a href="https://www.hasanur.me/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=EF6461&center=true&vCenter=true&width=600&lines=Self-taught+Software+Developer;Lifescience+Researcher;Computational+Biology+and+Genomics;Building+bioinformatics+tools" alt="Typing SVG" />
   </a>
 </p>
